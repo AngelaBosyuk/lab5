@@ -1,8 +1,11 @@
-    </main>
-
-    <footer class="container">
+<?php // public/_footer.php ?>
+      </main>
+      <footer class="container">
         <hr>
-        <small>PHP + Firebase Realtime Database</small>
-    </footer>
+        <p>&copy; 2025 Firebase Form Example</p>
+      </footer>  
 </body>
-</html>
+</html>      
+    
+
+
